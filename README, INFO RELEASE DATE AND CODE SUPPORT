@@ -1,9 +1,10 @@
 Hello! It's been a really long time since I've update this repository, as the FLL team and I have been working on some other things.
-I'm still working on having a fully documented, working version of the code, I honestly can't give a definitive release date for many reasons, but I imagine
-it will be sometime before the end of the year (probably earlier). In the meantime though, the Galileo Mk2 file is actually a working version that tracks the
-location of a Riley Rover if anyone is interested in it still. Anyways, this is just saying that I've been working on a working version on my code but:
+I'm still working on having a fully documented, working version of the code, I honestly can't give a definitive release date for many reasons. In the meantime though, the Galileo 
+Mk2 file is actually a working version that tracks the location of a Riley Rover if anyone is interested in it still, and the .EV3s file includes automatic movement.
+(You can import EV3s files by following this tutorial: https://www.fllcasts.com/tutorials/768-importing-my-block-in-a-lego-ev3-project)
+Anyways, this is just saying that I've been working on a working version on my code but:
 
 IF YOU HAVE A QUESTION ABOUT THIS CODE:
 Feel free to email me at collin@brickwolves.com, I'd be very happy to answer any questions at all about this code (probably pretty quickly as I don't 
-have much to do in quaratine!) or getting it working on your robot, I've put a lot of time into working on it and it would be awesome if other people 
+have much to do in quarantine!) or getting it working on your robot, I've put a lot of time into working on it and it would be awesome if other people 
 can use it too!
